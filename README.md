@@ -1,6 +1,8 @@
 # City-views-on-top-with-Django
 ## Output
-https://github.com/user-attachments/assets/455a4128-49cf-456f-b767-10b8e00af1df
+https://github.com/user-attachments/assets/f2dd7d20-b582-41d9-8020-d0d10964bf5c
+
+
 
 
 
